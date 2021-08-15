@@ -45,4 +45,4 @@
     - Recall High_Risk: 92%
     - Recall Low_Risk: 94%
 ## Summary:
-  - 
+  - Base on the performance of the six models, the Easy Ensemble AdaBoost Claasifier model is recommended. It shows the highest Balanced Accuracy Score, while its Precision High_Risk, Recall High_Risk and Recall Low_Risk scores are also the highest. This mean the model returns more relevant results than irrelevant, and the number of correct positive predictions is much higher.
