@@ -4,8 +4,8 @@
 ## Results:
   - Naive Random Oversampling
   - ![image](https://user-images.githubusercontent.com/82785321/129488060-3f19cf47-7be3-4cba-99bb-3cdb51aa6f93.png)
-  --Balanced Accuracy Score: 65.5332%
-  --
+    - Balanced Accuracy Score: 65.5332%
+    - 
   - SMOTE Oversampling
   - ![image](https://user-images.githubusercontent.com/82785321/129488065-b97af6e1-780a-4e2c-9670-c6aae70d86df.png)
   - Undersampling
