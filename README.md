@@ -5,16 +5,44 @@
   - Naive Random Oversampling
   - ![image](https://user-images.githubusercontent.com/82785321/129488060-3f19cf47-7be3-4cba-99bb-3cdb51aa6f93.png)
     - Balanced Accuracy Score: 65.5332%
-    - 
+    - Precision High_Risk: 1%
+    - Precision Low_Risk: 100%
+    - Recall High_Risk: 72%
+    - Recall Low_Risk: 59%
   - SMOTE Oversampling
   - ![image](https://user-images.githubusercontent.com/82785321/129488065-b97af6e1-780a-4e2c-9670-c6aae70d86df.png)
+    - Balanced Accuracy Score: 64.6197%
+    - Precision High_Risk: 1%
+    - Precision Low_Risk: 100%
+    - Recall High_Risk: 60%
+    - Recall Low_Risk: 69%
   - Undersampling
   - ![image](https://user-images.githubusercontent.com/82785321/129488069-207f1bcf-9653-458f-a34f-862c0a91e200.png)
+    - Balanced Accuracy Score: 58.7636%
+    - Precision High_Risk: 1%
+    - Precision Low_Risk: 100%
+    - Recall High_Risk: 65%
+    - Recall Low_Risk: 52%
   - Combination (Over and Under) Sampling
   - ![image](https://user-images.githubusercontent.com/82785321/129488076-80519ed8-442b-46a1-a91f-f786c72429d9.png)
+    - Balanced Accuracy Score: 66.8606%
+    - Precision High_Risk: 1%
+    - Precision Low_Risk: 100%
+    - Recall High_Risk: 76%
+    - Recall Low_Risk: 57%
   - Balanced Random Forest Classifier
   - ![image](https://user-images.githubusercontent.com/82785321/129488081-e1c6cccb-448c-4dad-8bb5-f3d4b1bb6b93.png)
+    - Balanced Accuracy Score: 78.8546%
+    - Precision High_Risk: 3%
+    - Precision Low_Risk: 100%
+    - Recall High_Risk: 70%
+    - Recall Low_Risk: 87%
   - Easy Ensemble AdaBoost Classifier
   - ![image](https://user-images.githubusercontent.com/82785321/129488087-616095f7-107e-4287-93e3-b7487f8d9fff.png)
+    - Balanced Accuracy Score: 93.1660%
+    - Precision High_Risk: 9%
+    - Precision Low_Risk: 100%
+    - Recall High_Risk: 92%
+    - Recall Low_Risk: 94%
 ## Summary:
   - 
